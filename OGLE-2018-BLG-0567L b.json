@@ -1,0 +1,98 @@
+[
+{
+  "ra": 339.115,
+  "dec": 58.4261,
+  "apparent_magnitude": 6.33112,
+  "absolute_magnitude": -11.5547,
+  "distance": 37772.2,
+  "x": -8085.52,
+  "y": -4269.94,
+  "z": 36648.7,
+  "temperature": 4871.35,
+  "color": 16764015
+},
+{
+  "ra": 273.804,
+  "dec": -20.388,
+  "apparent_magnitude": 5.843,
+  "absolute_magnitude": -10.0662,
+  "distance": 15200.1,
+  "x": 2266.55,
+  "y": -6439.01,
+  "z": -13581.1,
+  "temperature": 21691.1,
+  "color": 13230847
+},
+{
+  "ra": 102.719,
+  "dec": -0.0731912,
+  "apparent_magnitude": 4.72744,
+  "absolute_magnitude": -6.82735,
+  "distance": 2046.25,
+  "x": -1249.86,
+  "y": -617.585,
+  "z": 1497.86,
+  "temperature": 3679.72,
+  "color": 16738874
+},
+{
+  "ra": 73.5125,
+  "dec": 66.3427,
+  "apparent_magnitude": 6.91151,
+  "absolute_magnitude": -6.9271,
+  "distance": 5857.63,
+  "x": 3201.06,
+  "y": -4704.59,
+  "z": 1389.91,
+  "temperature": 9997.99,
+  "color": 16316415
+},
+{
+  "ra": 339.115,
+  "dec": 58.4261,
+  "apparent_magnitude": 6.33112,
+  "absolute_magnitude": -11.5547,
+  "distance": 37772.2,
+  "x": -8085.52,
+  "y": -4269.94,
+  "z": 36648.7,
+  "temperature": 4871.35,
+  "color": 16764015
+},
+{
+  "ra": 273.804,
+  "dec": -20.388,
+  "apparent_magnitude": 5.843,
+  "absolute_magnitude": -10.0662,
+  "distance": 15200.1,
+  "x": 2266.55,
+  "y": -6439.01,
+  "z": -13581.1,
+  "temperature": 21691.1,
+  "color": 13230847
+},
+{
+  "ra": 102.719,
+  "dec": -0.0731912,
+  "apparent_magnitude": 4.72744,
+  "absolute_magnitude": -6.82735,
+  "distance": 2046.25,
+  "x": -1249.86,
+  "y": -617.585,
+  "z": 1497.86,
+  "temperature": 3679.72,
+  "color": 16738874
+},
+{
+  "ra": 73.5125,
+  "dec": 66.3427,
+  "apparent_magnitude": 6.91151,
+  "absolute_magnitude": -6.9271,
+  "distance": 5857.63,
+  "x": 3201.06,
+  "y": -4704.59,
+  "z": 1389.91,
+  "temperature": 9997.99,
+  "color": 16316415
+},
+]
